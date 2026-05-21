@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pet Adoption Platform
 
 ## Overview
@@ -28,3 +29,6 @@ This project is a comprehensive pet adoption platform that allows users to conne
 [Visit the live site here](https://pet-adoption-platform-cc33e.web.app/)
 ## Server Site Github Repository 
 [Visit Repository here](https://github.com/Rahidapriya/Pet-Adoption-Platform-Servers-Site) 
+=======
+# pet-adoption
+>>>>>>> 682c1d6847224584a79d859b60a55c0159ffd21e
