@@ -1,5 +1,5 @@
 import {
-  createBrowserRouter,
+  createHashRouter,
 
 } from "react-router-dom";
 
@@ -48,7 +48,7 @@ import AllPetsByCategory from "../../pages/allPetsByCategory/AllPetsByCategory";
 
 
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <MainLayout></MainLayout>,
